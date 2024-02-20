@@ -1,2 +1,2 @@
 # cka-bookmarks
-Bookmarks used in the Certified Kubernetes Administrator Exam (CKA)
+Bookmarks used in my Certified Kubernetes Administrator Exam (CKA)
